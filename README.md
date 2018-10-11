@@ -103,7 +103,7 @@ Please edit this file to add your answers to the following questions.
 
 #### 7. In the following URL: `http://www.lehman.edu/academics/mathematics-computer-science/index.php`
 
-* What is the scheme/protocol?     https
+* What is the scheme/protocol?     http
 * What is the host?                lehman.edu
 * What is the port number?         80
 * What is the path?                computer-science
@@ -148,7 +148,8 @@ Pleaes ensure you have read chapters 1–9 (except 7) in the [HTML & CSS book](h
 
 ### 10. What is a webpage?
 
-*Your answer here.*
+A webpage is any page of a website that we can view in our browser.It is commonly written in HTML which is accessible through the Internet 
+or other networking an Internet browser. It can be accessed by entering a URL address which contains texts,graphics and hyperlinks to other webpages and files. 
 
 
 ### 11. Webpage I like
@@ -164,15 +165,21 @@ What's one webpage you like? Why?
 ### 13. Resources
 
 Where is a good place to look for information about HTML tags?
+ https://developer.mozilla.org
+
 
 
 ### 14. HTML Versions
 
 Which version of HTML are we covering in this class? What is it's DOCTYPE tag?
+HTML5. <!DOCTYPE html>
+
 
 What is XML?
-
+It is an extensible Markup language which was designed to store and trasport the data.It is both human and machine readable. 
 What is XHTML?
+It is an extensible Hypertext Markup language.It is defined as an XML application and supported by all major browsers. It is almost same as HTML with the only few differences.
+
 
 
 ### 15. HTML
@@ -185,6 +192,8 @@ Are HTML files interpreted or executed?
 ### 16. Browser versioning
 
 Which versions of Microsoft Internet Explorer support the `<nav>` tag?
+Internet Explorer 9 supports the <nav>tag.
+
 
 
 ### 17. HTML Validity
@@ -201,11 +210,17 @@ What types of people does accessibility concern?
 What is one tool you can use to verify the accessibility of your websites?
 
 
+
+
+
 ### 19. head / body
 
 What is the `<head>` tag for?
+:It is the first element inside an HTML element where metadata,information about the document is placed.It should start immediatley after the opening html tag and end directly before the opening body tag. 
+
 
 What is the `<body>` tag for?
+This is the main content area of an HTML document.It is used after the closing head tag and end before the closing html tag. 
 
 
 ### 20. Head…

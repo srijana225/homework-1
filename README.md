@@ -149,7 +149,7 @@ Pleaes ensure you have read chapters 1–9 (except 7) in the [HTML & CSS book](h
 ### 10. What is a webpage?
 
 A webpage is any page of a website that we can view in our browser.It is commonly written in HTML which is accessible through the Internet 
-or other networking an Internet browser. It can be accessed by entering a URL address which contains texts,graphics and hyperlinks to other webpages and files. 
+or other network using an Internet browser. It can be accessed by entering a URL address which contains texts,graphics and hyperlinks to other webpages and files. 
 
 
 ### 11. Webpage I like

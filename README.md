@@ -237,8 +237,14 @@ head is the first element inside the an HTML element where metadata information 
 ### 21. Tables
 
 What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)?
-
-
+"<td>" : Defines a cell in a table
+"<th>" : Defines a header cell in a table
+ "<tr>": Defines a row in a table.
+ "<col>":Specifies column properties for each column within a <colgroup>element.
+ "<thead>":Groups the header content in a table.
+ "<tbody>" : Groups the body content in a table.
+  "<option>" :Defines the table caption.
+"<tfoot>": Groups the footer content in a table. 
 ### 22. Non-closing tags
 
 Which tags don't have a closing pair (e.g. `<br>`)?

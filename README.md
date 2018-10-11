@@ -85,39 +85,39 @@ Please edit this file to add your answers to the following questions.
 
 #### 5. In the following URL: `https://www.nsnsp.org/commitments?date=2017-12-09`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the scheme/protocol?     https
+* What is the host?                nsnsp.org
+* What is the port number?         443
+* What is the path?                2017-12-09
+* What are the query parameters?   date
+* What is the fragment?            None.Fragments starts with #
 
 #### 6. In the following URL: `http://localhost:4000/admin?`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the scheme/protocol?     http
+* What is the host?                4000
+* What is the port number?         80
+* What is the path?                None
+* What are the query parameters?   None
+* What is the fragment?            None
 
 #### 7. In the following URL: `http://www.lehman.edu/academics/mathematics-computer-science/index.php`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the scheme/protocol?     https
+* What is the host?                lehman.edu
+* What is the port number?         80
+* What is the path?                computer-science
+* What are the query parameters?   None
+* What is the fragment?            None
 
 #### 8. In the following URL: `https://en.wikipedia.org/wiki/Greek_alphabet#Glyph_variants`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the scheme/protocol?   https
+* What is the host?              wikipedia.org
+* What is the port number?       443
+* What is the path?              Greek_alphabet
+* What are the query parameters? None
+* What is the fragment?          Glyph_variants
 
 
 ### 9. HTTPS

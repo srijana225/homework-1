@@ -204,12 +204,16 @@ What is one tool that can tell you if you have written valid HTML?
 ### 18. Accessibility
 
 What does "Accessibility" mean in the context of web development?
+:Those websites and web tools which are properly designed and coded so that every individual,businesses and society can access them is known as Accessibility in the context of web development. 
+
 
 What types of people does accessibility concern?
+:people with disabilities,old,from rural areas and developing countries also those who use small screen devices.  
+
 
 What is one tool you can use to verify the accessibility of your websites?
 
-
+ACROBAT XI PRO. It offers the accessibility checking tools that can identify accessibility issues in PDF documents.
 
 
 

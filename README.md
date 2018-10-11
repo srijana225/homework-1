@@ -126,8 +126,15 @@ What does the S stand for in HTTPS?
 : Secure
 Why is HTTPS better than HTTP?
 HTTPS is better than HTTP because, HTTPS is the safest and more secure web experience for the users.It protects the user information and also prevents from cyber attacks. The drawback of HTTP is that the data isn't encrypted.Hackers can easily hijack the connection,because they can see what the browser is requesting and the site is sending.They can intercept the data sent by the site and alter it before sending it on the browser. Without HTTPS any data passed is insecure. 
+
+
+
+
+
 Should all web pages use HTTPS?
 Yes because, In HTTPS the data is encrypted which helps in maintaining the security. We all want to exchange our private information securely so that the unauthorized access is prevented.HTTPS helps to keep the website secure. 
+
+
 
 ## Webpages
 

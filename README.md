@@ -226,13 +226,13 @@ This is the main content area of an HTML document.It is used after the closing h
 ### 20. Head…
 
 What's the difference between `<head>`, `<header>`, and heading tags?
-'<head>' is the first element inside the an HTML element where metadata information about the document is placed. It appears before the body of a webpage. 
+head is the first element inside the an HTML element where metadata information about the document is placed. It appears before the body of a webpage. 
  
  
- '<header>' It is used within the body of the website and can be used multiple times if required.This element is basically for the actual content. 
+ header is used within the body of the website and can be used multiple times if required.This element is basically for the actual content. 
  
  
- '<heading>' element is used for sizing the text. It is defined with the '<h1>' to '<h6>' tags. '<h1>' defines the most important heading and '<h6>' defines the least important heading. 
+ heading element is used for sizing the text. It is defined with the h1 to h6 tags. h1 defines the most important heading and h6 defines the least important heading. 
 
 ### 21. Tables
 

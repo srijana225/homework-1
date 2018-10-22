@@ -254,11 +254,22 @@ What are all the tags associated with [HTML tables](https://developer.mozilla.or
 ### 22. Non-closing tags
 
 Which tags don't have a closing pair (e.g. `<br>`)?
-
-
+ hr
+ meta
+ img
+ param
+ source
+ link
+ area
+ input
+ col
+ embed
+ 
 ### 23. Links
 
 How do you make a link open in a new window?
+When we set target attribute to _blank the link will open in a new window.
+for example, a href ="https://www.youtube.com/" target = "_blank"youtube!<a/>
 
 
 ### 24. IFRAME
@@ -297,10 +308,11 @@ Please modify the [bugs.html](bugs.html) file in this repository to fix the erro
 ### 28. Pace check
 
 Class is going… too slow / just right / too fast.
-
+just right
 
 ### 29. Jobs
 
 Add a link to one web development job based in NYC:
+
 
 What do you still need to learn to meet the requirements?

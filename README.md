@@ -291,60 +291,7 @@ Please modify the [science.html](./science.html) file in this repository to make
 
 ![Science webpage](images/science.png)
 
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <meta name = "author" content = "Srijana Khadka">
-    <meta name = "description" content = "Intro to science">
-    <meta name="keywords"  content= "HTML5">
-    <title> Lehman Science</title>
-    
-    <h1> Science! </h1>
-    <p> Water is:<b>H<sub>2</sub>O</b> </p>
 
-    <p>Einstien's most famous equation is: <b> E = MC<sup>2</sup></b></p>
-    <hr>
-    <h2>Elements</h2>
-    <p> The first three elements of the Peirodic Table are :</p>
-    <ol>
-     <li> Hydrogen</li>
-     <li> Helium</li>
-     <li> Lithium</li>
-    </ol>
-   <hr>
-   <h2>Lehman Summer Session</h2>
-   <p>Lehman College offers these courses over summer:</p>
-   <ul>
-     <li> Biology:</li>
-    <ul> <li>Principles of Biology</li>
-      <li> Microbiology</li>
-      <li>Genetics</li>
-      </ul>
-      <li>Chemistry:</li>
-      <ul>
-        <li> Essentials of General Chemistry</li>
-        <li> Introduction to Biochemistry</li>
-      </ul>
-      <li> Mathematics:</li>
-      <ul> <li> Introdcution to Statistics</li>
-        <li> Calculus I</li>
-        <li> Vector Calculus</li>
-        <li>Algebra and Number System I</li>
-
-      </ul>
-   </ul>
-  </head>
-  <body>
-    <a href = "https://twitter.com/CSforALL"><img src = "Twitter.png" height = "10%" width = "10%"> 
-    <!-- HINTS:    
-      1. Embed a "Follow" button for the Twitter account https://twitter.com/CSforALL
-      2. Research "superscript" and "subscript" tags.
-      3. Complete the tags in the <head> section.
-    -->
-
-  </body>
-</html>
 
 ### 26. olympics.html
 
